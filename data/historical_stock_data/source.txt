@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/camnugent/sandp500
+
+SCI: https://finance.yahoo.com/quote/000001.SS/history?period1=1360281600&period2=1517961600&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
